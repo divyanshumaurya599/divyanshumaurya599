@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm DIVYANSHI</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm DIVYANSHU MAURYA</h1>
+<h3 align="center">Full Stack Web Developer | Software Development Intern | Problem Solver
+
+</h3>
 <img align="right" alt="coding" width="400" src="gif.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi1611&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi1611" /> </p>
 
-- 🌱 I’m currently learning **Javascript, C++, DSA, Competitive Coding**
+- 🌱 I’m currently learning **Javascript, C++, DSA, Competitive Coding, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Divyanshi1611](https://github.com/Divyanshi1611)
 
-- 💬 Ask me about **C LANGUAGE,PYTHON, DJANGO**
+- 💬 Ask me about **C LANGUAGE,JAVA**
 
 - 📫 How to reach me ****
 
@@ -16,9 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/divyanshi-sharma-3bb4a3259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/divyanshi-sharma-3bb4a3259" height="30" width="40" /></a>
-<a href="https://youtube.com/@divyanshisharma5657?si=oqqbXfSXfqjGGO04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@divyanshisharma5657" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sharmadivyanshi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sharmadivyanshi3" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/divyanshi-sharma-3bb4a3259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/divyanshu-maurya-0a3b22253/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/divyanshi-sharma-3bb4a3259" height="30" width="40" /></a>
+<a href="[[https://www.hackerrank.com/profile/sharmadivyanshi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sharmadivyanshi3](https://www.hackerrank.com/profile/divyanshumaurya3)](https://www.hackerrank.com/profile/divyanshumaurya3)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
