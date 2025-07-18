@@ -1,42 +1,68 @@
-# 👋 Hello, I'm Divyanshu Maurya
+<h1 align="center">Hi 👋, I'm Divyanshu Maurya</h1>
+<h3 align="center">A passionate Developer from India</h3>
 
-🌱 I’m currently learning Web Development & DSA  
-💬 Ask me about JavaScript, React Native, SQL, and C++  
-📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)  
-⚡ Fun fact: I love building apps and learning new technologies every day!
-
----
-
-## 🔧 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+React+Native+Learner;Coding+Lover+%7C+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🙋‍♂️ About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuMaurya&show_icons=true&theme=radical" alt="Divyanshu's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuMaurya&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuMaurya&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🧠 Currently Learning
-
-- React Native & Firebase
-- Data Structures & Algorithms
-- Git & GitHub workflows
+- 🔭 I’m currently working on **React Native Projects**
+- 🌱 I’m currently learning **Firebase & Backend Integration**
+- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/DivyanshuMaurya)
+- 💬 Ask me about **DSA, JavaScript, React Native, and C++**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: I enjoy learning by building real-world projects
 
 ---
 
-## 🌐 Connect with me
+## 🚀 Languages and Tools:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,cpp,html,css,git,github,firebase,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshuMaurya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuMaurya&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuMaurya&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuMaurya&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
