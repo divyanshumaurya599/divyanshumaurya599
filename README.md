@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.java.org" target="_blank" rel="noreferrer">
-    <img src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>" width="40" height="40"/>
+    <img src="<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" width="40" height="40"/>" width="40" height="40"/>
   </a>
 </p>
 
