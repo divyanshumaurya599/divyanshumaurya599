@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm DIVYANSHI</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm DIVYANSHU MAURYA</h1>
+<h3 align="center">Full Stack Web Developer | Software Development Intern | Problem Solver</h3>
 <img align="right" alt="coding" width="400" src="gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshumaurya599&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshumaurya599" /> </p>
 
-- 🌱 I’m currently learning **Javascript, C++, DSA, Competitive Coding**
+- 🌱 I’m currently learning **Javascript, C++, DSA, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshumaurya599](https://github.com/divyanshumaurya599)
 
-- 💬 Ask me about **C LANGUAGE, JAVA, DJANGO**
+- 💬 Ask me about **C LANGUAGE, JAVA**
 
 - 📫 How to reach me ****
-
-- ⚡ Fun fact **I Think I am Clumsy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/divyanshu-maurya-0a3b22253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://youtube.com/@divyanshisharma5657?si=oqqbXfSXfqjGGO04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+  <a href="https://leetcode.com/divyanshumaurya" target="blank">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="40" />
+</a>
 <a href="https://www.hackerrank.com/profile/divyanshumaurya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
