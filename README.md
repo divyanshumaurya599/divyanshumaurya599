@@ -33,7 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuma&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuma&layout=compact&theme=radical" alt="Top Languages" />
-
+</p>
 ---
 
 ### 🌐 Connect with me:
