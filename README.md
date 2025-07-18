@@ -1,36 +1,42 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Maurya</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 👋 Hello, I'm Divyanshu Maurya
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **Full Stack Development / React Native / DSA**
-
-- 💬 Ask me about **JavaScript, React, PHP, SQL, Git**
-
-- 📫 How to reach me **divyanshumaurya599@.com**  
- 
-
-- ⚡ Fun fact **I love building useful things and solving problems**
+🌱 I’m currently learning Web Development & DSA  
+💬 Ask me about JavaScript, React Native, SQL, and C++  
+📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)  
+⚡ Fun fact: I love building apps and learning new technologies every day!
 
 ---
 
-### 🛠️ Languages and Tools:
-<img src="https://github-readme-stats.vercel.app/api?username=actual-username&show_icons=true&theme=radical" />
+## 🔧 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
-### 📊 GitHub Stats:
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshuma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuma&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuma&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuMaurya&show_icons=true&theme=radical" alt="Divyanshu's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuMaurya&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuMaurya&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ---
 
-### 🌐 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:divyanshu@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+## 🧠 Currently Learning
+
+- React Native & Firebase
+- Data Structures & Algorithms
+- Git & GitHub workflows
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
