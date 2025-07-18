@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, React, PHP, SQL, Git**
 
-- 📫 How to reach me **divyanshu@example.com**  
+- 📫 How to reach me **divyanshumaurya599@.com**  
   *(replace with your real email)*
 
 - ⚡ Fun fact **I love building useful things and solving problems**
