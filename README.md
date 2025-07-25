@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript, C++, DSA, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyanshumaurya599](https://github.com/divyanshumaurya599)
+- 👨‍💻 All of my projects are available at (https://github.com/divyanshumaurya599?tab=repositories)
 
 - 💬 Ask me about **C LANGUAGE, JAVA**
 
